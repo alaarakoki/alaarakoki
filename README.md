@@ -37,24 +37,18 @@ I'm a passionate **Web Developer** who loves turning ideas into digital solution
 
 ## 📌 Featured Projects
 
-Here are some of my notable works:
+> 💡 *I have over **90 projects** on my GitHub! Browse my repositories below to explore my work in WordPress plugins, web applications, and more.*
 
-### 🧩 [Project Name 1 - WordPress Plugin]
-> Brief description of what this plugin does and the problem it solves.
->
-> 🔗 [Live Demo](your-link-here) • [Repository](your-link-here)
+### 🧩 WordPress Plugins
+> Custom plugins built for various use cases including e-commerce, SEO, user management, and performance optimization.
 
-### 🌐 [Project Name 2 - Web Application]
-> Brief description of this web app, technologies used, and its purpose.
->
-> 🔗 [Live Demo](your-link-here) • [Repository](your-link-here)
+### 🌐 Web Applications
+> Full-stack applications built with PHP, JavaScript, React, and modern frameworks.
 
-### 🏗️ [Project Name 3 - Full Website]
-> Brief description of the website project.
->
-> 🔗 [Live Demo](your-link-here) • [Repository](your-link-here)
+### 🏗️ Websites & More
+> Complete website solutions with custom themes, responsive design, and backend integrations.
 
-> 💡 *Check out all my repositories below for more projects!*
+> 👉 **[Explore all my repositories](https://github.com/alaarakoki?tab=repositories) to see my full portfolio!**
 
 ---
 
@@ -76,18 +70,10 @@ Here are some of my notable works:
 I'm always interested in collaborating on interesting projects or discussing web development!
 
 <p align="left">
-  <a href="[your-portfolio-url]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="[your-linkedin-url]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[your-twitter-url]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:[your-email]" target="_blank">
+  <a href="mailto:alaarakoki2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <!-- Portfolio, LinkedIn, and Twitter coming soon! -->
 </p>
 
 ---
@@ -102,19 +88,4 @@ I'm always interested in collaborating on interesting projects or discussing web
 
 <p align="center">
   <i>“Code is poetry, and I'm here to write verses that make the web a better place.”</i>
-</p>## Hi there 👋
-
-<!--
-**alaarakoki/alaarakoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
